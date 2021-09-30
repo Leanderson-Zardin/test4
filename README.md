@@ -20,3 +20,5 @@ aparentemente deu certo
 vamos tentar denovo
 
 tentativa de branch nova
+
+## Checkpoint
