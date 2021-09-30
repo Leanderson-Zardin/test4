@@ -22,3 +22,5 @@ vamos tentar denovo
 tentativa de branch nova
 
 ## Checkpoint
+
+fazendo alterações aleatóriamente
