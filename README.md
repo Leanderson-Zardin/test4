@@ -8,3 +8,7 @@ chave - test5
 # TESTE DE CHAVE
 
 deu certo
+
+# teste de branch
+
+testando 1, 2, 3 ... testando 1, 2, 3 ...
