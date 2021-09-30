@@ -23,8 +23,6 @@ tentativa de branch nova
 
 ## Checkpoint
 
-<<<<<<< HEAD
+
 fazendo alterações aleatóriamente
-=======
-outras alterações 
->>>>>>> master
+outras alterações
